@@ -6,3 +6,4 @@ Top-G es un Database de SQL que tiene el potencial de ser una aplicación financ
 Tables Created
 Dentro de esta carpeta se puede encontrar todas las tablas que se crearon para la database. Se pueden encontrar los cvs de los files que se crearon y parte se puede entrar el script en manera freestyle para que entiendad que se puede hacer las tablas manual. 
 
+
